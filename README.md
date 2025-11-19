@@ -111,6 +111,7 @@ VIOLATION_COOLDOWNS = {
 ### Starting the System
 1. Run `python main.py` as Administrator
 2. Start ETS2 with telemetry enabled
+ETS2 with telemetry https://github.com/Funbit/ets2-telemetry-server
 3. Begin driving - system auto-detects violations
 
 ### Violation Handling
