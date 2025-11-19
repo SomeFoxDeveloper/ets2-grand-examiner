@@ -5,7 +5,7 @@ A comprehensive traffic violation detection system for Euro Truck Simulator 2 th
 ![ETS2 Traffic Enforcement](https://img.shields.io/badge/ETS2-Traffic%20Enforcement-blue)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-
+(Some of the code may be ai generated) 
 ## 🚛 Features
 
 ### Real-Time Violation Detection
@@ -68,6 +68,7 @@ A comprehensive traffic violation detection system for Euro Truck Simulator 2 th
 4. **Enable ETS2 Telemetry**
    - Start ETS2 with telemetry server enabled
    - Ensure telemetry is running on `localhost:25555`
+   https://github.com/Funbit/ets2-telemetry-server
 
 5. **Run as Administrator**
    ```bash
